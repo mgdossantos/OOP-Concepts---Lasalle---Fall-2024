@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\bin\Debug\net6.0\lecture 2 - Ex Rectangle.exe
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\bin\Debug\net6.0\lecture 2 - Ex Rectangle.deps.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\bin\Debug\net6.0\lecture 2 - Ex Rectangle.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\bin\Debug\net6.0\lecture 2 - Ex Rectangle.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\bin\Debug\net6.0\lecture 2 - Ex Rectangle.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\refint\lecture 2 - Ex Rectangle.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\lecture 2 - Ex Rectangle.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture 2 - Ex Rectangle\lecture 2 - Ex Rectangle\obj\Debug\net6.0\ref\lecture 2 - Ex Rectangle.dll

@@ -1,0 +1,28 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.exe
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.deps.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\refint\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.pdb
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\ref\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.exe
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.deps.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\bin\Debug\net6.0\lecture2-Class and Objects.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\refint\lecture2-Class and Objects.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\lecture2-Class and Objects.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\lecture2-Class and Objects\lecture2-Class and Objects\obj\Debug\net6.0\ref\lecture2-Class and Objects.dll

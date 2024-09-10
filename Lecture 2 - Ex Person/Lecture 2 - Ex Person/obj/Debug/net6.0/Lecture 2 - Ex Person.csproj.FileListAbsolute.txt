@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\bin\Debug\net6.0\Lecture 2 - Ex Person.exe
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\bin\Debug\net6.0\Lecture 2 - Ex Person.deps.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\bin\Debug\net6.0\Lecture 2 - Ex Person.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\bin\Debug\net6.0\Lecture 2 - Ex Person.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\bin\Debug\net6.0\Lecture 2 - Ex Person.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\refint\Lecture 2 - Ex Person.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\Lecture 2 - Ex Person.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture 2 - Ex Person\Lecture 2 - Ex Person\obj\Debug\net6.0\ref\Lecture 2 - Ex Person.dll

@@ -1,0 +1,14 @@
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\bin\Debug\net6.0\LEcture 2 - Ex Movie.exe
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\bin\Debug\net6.0\LEcture 2 - Ex Movie.deps.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\bin\Debug\net6.0\LEcture 2 - Ex Movie.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\bin\Debug\net6.0\LEcture 2 - Ex Movie.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\bin\Debug\net6.0\LEcture 2 - Ex Movie.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\refint\LEcture 2 - Ex Movie.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\LEcture 2 - Ex Movie.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\LEcture 2 - Ex Movie\LEcture 2 - Ex Movie\obj\Debug\net6.0\ref\LEcture 2 - Ex Movie.dll
