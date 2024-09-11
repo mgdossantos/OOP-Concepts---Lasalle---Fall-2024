@@ -1,0 +1,18 @@
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\structured-programming-course\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.AssemblyInfoInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.AssemblyInfo.cs
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.csproj.CoreCompileInputs.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\bin\Debug\net6.0\Lecture3-accessmodifiers.exe
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\bin\Debug\net6.0\Lecture3-accessmodifiers.deps.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\bin\Debug\net6.0\Lecture3-accessmodifiers.runtimeconfig.json
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\bin\Debug\net6.0\Lecture3-accessmodifiers.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\bin\Debug\net6.0\Lecture3-accessmodifiers.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\refint\Lecture3-accessmodifiers.dll
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.pdb
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\Lecture3-accessmodifiers.genruntimeconfig.cache
+C:\Users\tchel\Documents\GitHub\OBJECT- ORIENTED PROGRAMMING CONCEPTS\Lecture3-accessmodifiers\Lecture3-accessmodifiers\obj\Debug\net6.0\ref\Lecture3-accessmodifiers.dll
