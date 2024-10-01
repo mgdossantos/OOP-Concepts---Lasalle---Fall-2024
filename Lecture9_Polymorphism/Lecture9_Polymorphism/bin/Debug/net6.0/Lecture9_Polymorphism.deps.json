@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lecture9_Polymorphism/1.0.0": {
+        "runtime": {
+          "Lecture9_Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture9_Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
