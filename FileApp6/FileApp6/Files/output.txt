@@ -1,0 +1,6 @@
+Hello, World!
+Welcome to file handling in C#.
+This is a simple example of writing to a file.
+This is an additional line.
+Appending more text to the file.
+End of the appended content.
