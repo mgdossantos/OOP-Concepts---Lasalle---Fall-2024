@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simulation_Question3/1.0.0": {
+        "runtime": {
+          "Simulation_Question3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulation_Question3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
